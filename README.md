@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌤️ Modern Weather App
 
 A stylish, responsive weather app built with **React**, **Tailwind CSS**, and the **OpenWeatherMap API**. Users can search for any city to get real-time weather updates, including temperature, humidity, wind speed, and weather conditions.
@@ -30,3 +31,6 @@ A stylish, responsive weather app built with **React**, **Tailwind CSS**, and th
    ```bash
    git clone https://github.com/your-username/weather-app.git
    cd weather-app
+=======
+# weatherapp
+>>>>>>> 679415e3be76ca3006eb8d3152f960620be0ccaf
